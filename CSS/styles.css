@@ -1,0 +1,15 @@
+body{
+    padding-top: 80px;
+}
+
+h1{
+    line-height: 0.9;
+}
+.card{
+    border: none;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: translateY(-8px);
+}
